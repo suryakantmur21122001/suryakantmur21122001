@@ -41,15 +41,16 @@ Problem Solving, Team Collaboration, Analytical Thinking, Adaptability
 ---
 
 ### 📚 Certifications  
-📜 [Data Science Certification — Innomatics Research Labs (Aug 2025)](https://drive.google.com/file/d/1zmJyHgyOVF3yu6Fs-5mPDWuRXhU2qQa0/view?usp=sharing)  
-📜 [Advanced Data Science with Python - Futureskills Prime – Govt. of India & NASSCOM (April 2025)](https://drive.google.com/file/d/1sReTKye47oFqORbd6t_-mWS6WhO6pPKh/view?usp=sharing)  
-📜 [Project Research Paper Certificate – Nitte Meenakshi Institute of Technology (NMITCON-2024) (Aug 2024)](https://drive.google.com/file/d/1GH3tYh-f6ufXDERashmbC4D7no01ZaHx/view?usp=sharing)  
-📜 [Six Month Project Internship Certificate - Center of Excellence (Data Science), GHRCE, Nagpur (June 2024)](https://drive.google.com/file/d/1a-aXtXSUkQJh3o0H6xNV3lU2xuVzFK4O/view?usp=sharing)  
-📜 [Python for Data Science – Indian Institute of Technology, Madras (Feb 2024)](https://drive.google.com/file/d/1_vQSLddCrUdXzNknYCyoiNmm7Drrzq_n/view?usp=sharing)  
-📜 [Natural Resources Management – Indian Institute of Technology, Guwahati (Oct 2023)](https://drive.google.com/file/d/1ZhDoN4QMNRyHCFb8BP1vjVG-fToE98JK/view?usp=sharing)  
-📜 [Data Analytics using Power BI Workshop – TechTip24 (Sep 2023)](https://drive.google.com/file/d/1351D-k9UPUZ6Ntvs7psbBaRHtQZXfDU6/view?usp=sharing)  
-📜 [Data Visualization Intern – Cojag Smart Technology Pvt. Ltd., Nagpur (Jan 2023)](https://drive.google.com/file/d/1dM2LLZ9gySkuRmQVv-go3XIFJOEmn7GI/view?usp=sharing)  
-📜 [NGO Certificate - Suvidha Foundation (March 2022)](https://drive.google.com/file/d/1yk_rGlPXZituGSm4B10eWY_8gMPBvnMw/view?usp=sharing)
+
+📜 Data Science Certification — Innomatics Research Labs (Aug 2025) [Link](https://drive.google.com/file/d/1zmJyHgyOVF3yu6Fs-5mPDWuRXhU2qQa0/view?usp=sharing)  
+📜 Advanced Data Science with Python - Futureskills Prime – Govt. of India & NASSCOM (April 2025) [Link](https://drive.google.com/file/d/1sReTKye47oFqORbd6t_-mWS6WhO6pPKh/view?usp=sharing)  
+📜 Project Research Paper Certificate – Nitte Meenakshi Institute of Technology (NMITCON-2024) (Aug 2024) [Link](https://drive.google.com/file/d/1GH3tYh-f6ufXDERashmbC4D7no01ZaHx/view?usp=sharing)  
+📜 Six Month Project Internship Certificate - Center of Excellence (Data Science), GHRCE, Nagpur (June 2024) [Link](https://drive.google.com/file/d/1a-aXtXSUkQJh3o0H6xNV3lU2xuVzFK4O/view?usp=sharing)  
+📜 Python for Data Science – Indian Institute of Technology, Madras (Feb 2024) [Link](https://drive.google.com/file/d/1_vQSLddCrUdXzNknYCyoiNmm7Drrzq_n/view?usp=sharing)  
+📜 Natural Resources Management – Indian Institute of Technology, Guwahati (Oct 2023) [Link](https://drive.google.com/file/d/1ZhDoN4QMNRyHCFb8BP1vjVG-fToE98JK/view?usp=sharing)  
+📜 Data Analytics using Power BI Workshop – TechTip24 (Sep 2023) [Link](https://drive.google.com/file/d/1351D-k9UPUZ6Ntvs7psbBaRHtQZXfDU6/view?usp=sharing)  
+📜 Data Visualization Intern – Cojag Smart Technology Pvt. Ltd., Nagpur (Jan 2023) [Link](https://drive.google.com/file/d/1dM2LLZ9gySkuRmQVv-go3XIFJOEmn7GI/view?usp=sharing)  
+📜 NGO Certificate - Suvidha Foundation (March 2022) [Link](https://drive.google.com/file/d/1yk_rGlPXZituGSm4B10eWY_8gMPBvnMw/view?usp=sharing)
 
 ---
 
@@ -57,13 +58,13 @@ Problem Solving, Team Collaboration, Analytical Thinking, Adaptability
 
 🔹 **🏖 Wellness Tourism Purchase Prediction** *(Coming Soon)*  
 Predicted customer likelihood to purchase a wellness tourism package using XGBoost and Streamlit.  
-🧠 *Tech:* XGBoost · SMOTE · Streamlit · Python  
+🧠 *Tech:* Machine Learning(XGBoost) · SMOTE · Streamlit · Python  
 
-🔹 **🚗 Estimating Road Traffic Flow using YOLOv8** *(Coming Soon)*
+🔹 **🚗 Estimating Road Traffic Flow using YOLOv8** *(Coming Soon)*  
 Developed a real-time system for vehicle detection, lane-wise counting, and SMS alerts using Twilio.  
-🧠 *Tech:* Deep Learning(YoloV8) · OpenCV · Python  
+🧠 *Tech:* Deep Learning (YOLOv8) · OpenCV · Python  
 
-🔹 **🌡 Air Conditioner Pricing Pattern Analysis** *(Coming Soon)*
+🔹 **🌡 Air Conditioner Pricing Pattern Analysis** *(Coming Soon)*  
 Performed web scraping and feature-based price analysis to explore how energy rating, brand, and warranty affect AC prices.  
 🧠 *Tech:* BeautifulSoup · Pandas · Power BI  
 
