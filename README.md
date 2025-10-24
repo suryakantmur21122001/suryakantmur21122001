@@ -1,4 +1,4 @@
-## # 👋 Hi, I'm Suryakant Murhekar  
+##  👋 Hi, I'm Suryakant Murhekar  
 
 🎯 **AI | Machine Learning | Data Science**  
 📍 Nagpur, Maharashtra, India  
@@ -6,7 +6,7 @@
 ---
 
 ### 🧠 About Me  
-💡 A passionate and detail-oriented **AI & ML Engineer** focused on transforming data into actionable insights.  
+💡 💡 A passionate and detail-oriented **AI & ML enthusiast** eager to apply skills in Python, Machine Learning, and Deep Learning to real-world problems.  
 🌱 Always exploring **new tools, algorithms, and AI trends** to stay ahead in this fast-moving tech world.  
 📊 Strong foundation in **Statistics, Machine Learning, and Deep Learning**, with hands-on experience in real-world applications.  
 🤖 Currently diving deeper into **Computer Vision**, **Model Optimization**, and **End-to-End Deployment**.  
